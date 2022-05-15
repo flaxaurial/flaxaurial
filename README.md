@@ -3,4 +3,6 @@
 
 
 ### Experience
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,ps,react,linux,py,vscode,ts,pr,lua,html,css,github,discord&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,ps,pr,react,linux,py,vscode,lua,html,css,github,discord&theme=dark)](https://skillicons.dev)
+
+### About
