@@ -1,6 +1,6 @@
 ### Hey there! 👋
 **I'm Flax**
-I primarily fovus on the development of Discord applications, such as bots.
+I primarily focus on the development of Discord applications, such as bots.
 
 
 ### Experience
