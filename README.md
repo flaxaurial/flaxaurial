@@ -48,4 +48,4 @@ I offer punishment and moderation systems to your bot so we can tweak
 moderator actions to your liking! The actions can be carried over Discord and
 ingame in order to widen the scope of punishments against players.
 
-## You may contact me through Discord.
+**You may contact me through Discord.**
